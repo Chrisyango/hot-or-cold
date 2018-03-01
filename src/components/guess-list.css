@@ -1,4 +1,5 @@
 ul.guessBox {
+	width: 400px;
 	height: 80px;
 	margin: 10px auto 0;
 	background: #11a8ab;

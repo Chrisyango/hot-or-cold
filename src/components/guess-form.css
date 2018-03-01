@@ -17,6 +17,7 @@ input.button {
 	color: #95a5a6;
 	font-size: 2em;
 	padding: 0.2em;
+	border: 1px solid #000;
 	-webkit-transition: background 1s ease-in-out;
 	-moz-transition: background 1s ease-in-out;
 	-ms-transition: background 1s ease-in-out;
